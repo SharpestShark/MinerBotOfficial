@@ -1,5 +1,4 @@
-# MinerBotOfficial
-[HEAD TO THE ACTUAL REPO](https://github.com/IcicleSavage/MinerBot)
+# [HEAD TO THE ACTUAL REPO](https://github.com/IcicleSavage/MinerBot)
 
 
 
